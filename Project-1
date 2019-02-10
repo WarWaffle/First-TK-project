@@ -1,0 +1,8 @@
+#learning from thenewboston youtube channel
+
+from tkinter import *
+
+groot = Tk()
+TheLabel = Label(groot, text="this might be easy")
+TheLabel.pack()
+groot.mainloop()
